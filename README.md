@@ -2,7 +2,7 @@
 
 I am an undergraduate student at Columbia University studying Computer Science and Statistics!
 
-Languages: Python, R, SQL, Java, C, MATLAB, Javascript. 
+<br> Languages: Python, R, SQL, Java, C, MATLAB, Javascript. </br>
 Interests: Data Science, ML, NLP, Software Development.
 Data frameworks and libraries: TensorFlow, Keras, scikit-learn, NumPy, Matplotlib, Seaborn.
 
