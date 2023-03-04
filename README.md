@@ -2,7 +2,9 @@
 
 I am an undergraduate student at Columbia University studying <b> Computer Science </b> and <b> Statistics</b>!
 
-<b> Languages </b> 💻 <br> Python, R, SQL, Java, C, MATLAB, Javascript </br>
+<b> Languages </b> 💻 <br> Python, R, SQL, Java, C, MATLAB </br>
+
+<b> Front-end </b> 🖥️ <br> JavaScript, HTML, CSS </br> 
 
 <b> Interests </b> 🧠 <br> Data Science, ML, NLP, Software Development </br>
 
@@ -18,6 +20,8 @@ I am an undergraduate student at Columbia University studying <b> Computer Scien
 </div> </br>
 
 <b> GitHub Stats 📈 </b> 
+
+![Lara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=larakaracasu&show_icons=true&hide=issues,contribs)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1)](https://github.com/larakaracasu/github-profile-trophy)
 
