@@ -5,7 +5,7 @@ I am an undergraduate student at Columbia University studying <b> Computer Scien
 <b> Experience </b> 👩‍💻 <br>
 Incoming <b> data engineering </b> fellow at the U.S. Census Bureau. </br>
 Former <b> data science </b> intern at the Public Interest Technology Data Science Corps. <br> 
-Former <b> machine learning and data science </b> intern at the Hindsight Technology Solutions. </br>
+Former <b> machine learning and data science </b> intern at Hindsight Technology Solutions. </br>
 
 <b> Languages </b> 💻 <br> Python, R, SQL, Java, C, MATLAB </br>
 
