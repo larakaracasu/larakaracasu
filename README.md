@@ -31,7 +31,3 @@ I am an undergraduate student at Columbia University studying <b> Computer Scien
 <b> GitHub Streaks 🔥 </b>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=larakaracasu)](https://git.io/streak-stats)
-
-<b> Relax 🐍 </b>
-
-![Snake animation](https://github.com/larakaracasu/larakaracasu/blob/output/github-contribution-grid-snake.svg)
