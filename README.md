@@ -24,10 +24,6 @@ I am an undergraduate student at Columbia University studying <b> Computer Scien
   </a>
 </div> </br>
 
-<b> GitHub Stats 📈 </b>
-
-![Lara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=larakaracasu&show_icons=true&hide=issues,contribs)
-
 <b> GitHub Streaks 🔥 </b>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=larakaracasu)](https://git.io/streak-stats)
