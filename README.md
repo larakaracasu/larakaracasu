@@ -13,7 +13,7 @@ I am an undergraduate student at Columbia University studying <b> Computer Scien
 
 <b> Interests </b> 🧠 <br> Data Science, ML, NLP, Software Development </br>
 
-<b> Frameworks + Libraries </b> 📚 <br> TensorFlow, Keras, Flask, scikit-learn, NumPy, Matplotlib, Seaborn </br>
+<b> Frameworks + Libraries </b> 📚 <br> TensorFlow, Keras, PyTorch, pandas, Flask, scikit-learn, NumPy, Matplotlib, Seaborn. </br>
 
 <b> Email me 📫 </b> <br> lk2859 {at} {university} {dot} edu </br>
 
