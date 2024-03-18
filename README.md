@@ -24,6 +24,7 @@ I am an undergraduate student at Columbia University studying <b> Computer Scien
   </a>
 </div> </br>
 
-<b> GitHub Streaks 🔥 </b>
+<b> GitHub Stats 🔥 </b>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=larakaracasu&rank=A,AA,AAA,S,B&title=Commits,PullRequest,Experience,Repo&margin-w=17)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=larakaracasu)](https://git.io/streak-stats)
