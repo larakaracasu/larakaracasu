@@ -1,8 +1,9 @@
 ### About Me 👋
 
-BS / MS in Computer Science at Columbia University!
+BS & MS in Computer Science at Columbia University!
 
 <b> Experience </b> 👩‍💻 <br>
+2025 <b> deployment strategist </b> at Palantir <a href="https://www.palantir.com">Palantir Technologies.</a></br>
 2024 <b> ML & data analytics </b> intern at the <a href="https://www.federalreserve.gov/">Federal Reserve Board.</a></br>
 2023 <b> data engineer </b> intern at the <a href="https://www.census.gov/library/working-papers/2019/econ/adep-wp-dc-digitization-linkage.html#:~:text=The%20Decennial%20Census%20Digitization%20and%20Linkage%20project%20(DCDL)%20is%20an,censuses%20of%201960%20through%201990.">U.S. Census Bureau.</a></br>
 2022 <b> data science </b> intern at the <a href="https://stat.columbia.edu/2022-projects-public-interest-technology-data-science-corps/">Public Interest Technology Data Science Corps.</a><br> 
