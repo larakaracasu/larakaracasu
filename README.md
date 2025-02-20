@@ -1,6 +1,6 @@
 ### About Me 👋
 
-BS & MS in Computer Science at Columbia University!
+BS in <b> Computer Science </b> and minor in <b> Statistics </b> from Columbia University!
 
 <b> Experience </b> 👩‍💻 <br>
 2025 <b> Deployment Strategist </b> at <a href="https://www.palantir.com">Palantir Technologies.</a></br>
