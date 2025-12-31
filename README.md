@@ -23,9 +23,3 @@ BS in <b> Computer Science </b> and minor in <b> Statistics </b> from Columbia U
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div> </br>
-
-<b> GitHub Stats 🔥 </b>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=larakaracasu&rank=A,AA,AAA,S,B&title=Commits,PullRequest,Experience,Repo&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=larakaracasu)](https://git.io/streak-stats)
