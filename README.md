@@ -9,7 +9,7 @@ BS in <b> Computer Science </b> and minor in <b> Statistics </b> from Columbia U
 2022 <b> Data Science </b> Intern at the <a href="https://stat.columbia.edu/2022-projects-public-interest-technology-data-science-corps/">Public Interest Technology Data Science Corps.</a><br> 
 2021 <b> ML & Data Science </b> Intern at <a href="https://hindsightsolutions.net/">Hindsight Technology Solutions.</a></br>
 
-<b> Languages </b> 💻 <br> Python, R, SQL, Java, C </br>
+<b> Languages </b> 💻 <br> Python, Typescript, R, SQL, Java, C </br>
 
 <b> Front-end </b> 🖱️ <br> JavaScript, HTML, CSS </br> 
 
